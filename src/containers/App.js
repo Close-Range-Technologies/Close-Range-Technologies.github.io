@@ -1,6 +1,5 @@
 import { BrowserRouter as Router } from 'react-router-dom';
 import logo from '../assets/logo.png';
-import { Navigation } from '../components/Navigation/Navigation';
 import './App.css';
 
 function App() {
